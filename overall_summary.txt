@@ -1,0 +1,19 @@
+ZA Primary Enzyme Index & MycoDeg Phylogeny Index - Calculation Summary
+Timestamp: 2026-04-27 21:51:00
+Beta: 0.001
+================================================================================
+
+Strain: test1
+  Formula (2-1) ZA Primary Enzyme Index:
+    Matched: 50/56 (89.3%)
+    Unmatched: GH31, GH55, GH51, GH43_30, GH31_1, GH133
+    Score: 2.4328
+    Rank: 11/156
+    Lacking primary enzymes: No
+  Formula (2-2) MycoDeg Phylogeny Index:
+    Matched: 12/17 (70.6%)
+    Unmatched: GH43_11, CE3, GH16_3, GT34, GH16_18
+    Score: -0.6854
+    Dikaryon rank: 78/106
+    Closest class: C
+
