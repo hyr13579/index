@@ -1,0 +1,19 @@
+============================================================
+Strain: test1
+Input file: test1.txt
+Timestamp: 2026-04-27 21:50:58
+Beta: 0.001
+
+[Formula (2-1) ZA Primary Enzyme Index]
+  Score: 2.4328
+  Matched families: 50/56 (89.3%)
+  Unmatched families (6): GH31, GH55, GH51, GH43_30, GH31_1, GH133
+  Overall rank: 11/156
+  Not at bottom of dikaryon strains
+
+[Formula (2-2) MycoDeg Phylogeny Index]
+  Score: -0.6854
+  Matched families: 12/17 (70.6%)
+  Unmatched families (5): GH43_11, CE3, GH16_3, GT34, GH16_18
+  Dikaryon rank: 78/106
+  Closest class: C
